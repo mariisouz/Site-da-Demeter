@@ -1,0 +1,51 @@
+body {
+    background-image: url(../img/demeter_listas.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "italianno", sans-serif;
+}
+.links{
+    text-align: center;
+    font-size: 80px;
+    }
+a:hover {
+    color:rgb(242, 225, 74);
+}
+p{
+    font-size: 70px;
+}
+.livros{
+    float: right;
+    font-size: 50px;
+}
+ #music{
+    background-color: #76451b;
+    height: 650px;
+    width: 650px;
+    float: left;
+    margin-top: 15%;
+    opacity: 95%;
+}
+#liv{
+    background-color: #76451b;
+    height: 650px;
+    width: 650px;
+    float: right;
+    margin-top: 15%;
+    opacity: 95%;
+}
+a{
+    color:black;
+}
+#cabecalho{
+    background-color: #994f0c;
+    height: 100px;
+    opacity: 90%;
+}
+ul{
+    font-size: 60px;
+    color: black;
+}
+h2{
+    font-size: 75px;
+}

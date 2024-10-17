@@ -1,0 +1,65 @@
+body {
+    background-color: #794112;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "italianno", sans-serif;
+}
+.links{
+    text-align: center;
+    font-size: 80px;
+    }
+a:hover{
+    color: rgb(249, 162, 1);
+}
+p{
+    font-size: 90px;
+}
+#cabecalho{
+    background-color: #994f0c;
+    height: 100px;
+    opacity: 90%;
+}
+h1 {
+    font-size: 125px;
+}
+a{
+    color: black;
+}
+.galeria1{
+    float: left;
+    margin: 25px;
+}
+.galeria2{
+    float: left;
+    margin: 25px;
+}
+.galeria3{
+    float: left;
+    margin: 25px;
+}
+.galeria4{
+    float: left;
+    margin: 25px;
+}
+.galeria5{
+    float: left;
+    margin: 25px;
+}
+.galeria6{
+    float: left;
+    margin: 25px;
+}
+.galeria7{
+    float: left;
+    margin: 25px;
+}
+.galeria8{
+    float: left;
+    margin: 25px;
+}
+#galeria-geral{
+    margin-left: 200px;
+    margin-top: 90px;
+}
+
+
